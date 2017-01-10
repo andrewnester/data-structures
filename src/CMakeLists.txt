@@ -1,0 +1,1 @@
+add_library (vector ${CMAKE_CURRENT_SOURCE_DIR}/vector/vector.c)
